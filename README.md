@@ -1,1 +1,1 @@
-Just a colletion of data structure implemented while learning O'🐫.
+Just a colletion of data structures implemented while learning O'🐫.
